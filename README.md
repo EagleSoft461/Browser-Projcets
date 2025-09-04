@@ -5,7 +5,8 @@ Bu proje, kullanıcı odaklı, hızlı,güvenli ve şık arayüzlü bir web tara
 ## 📝 Hakkında
 
 Bu proje, Python ve PyQt5.QtWidgets QApplication, QMainWindow, QLineEdit, QPushButton, QToolBar, QAction, QMessageBox, QTabWidget
-PyQt5.QtWebEngineWidgets QWebEngineView, QWebEngineProfile, QWebEngineDownloadItem PyQt5.QtCore  QUrl, QSize PyQt5.QtGui  QIcon, QPixmap kütüphaneleri ile geliştirilmiş hafif ve işlevsel bir web tarayıcısıdır. Amacım, kullanıcıların internette rahatça gezinmelerini sağlayan temiz ve sezgisel bir deneyim sunmaktır.
+PyQt5.QtWebEngineWidgets QWebEngineView, QWebEngineProfile, QWebEngineDownloadItem PyQt5.QtCore  QUrl, QSize PyQt5.QtGui  QIcon, QPixmap kütüphaneleri ile geliştirilmiş hafif ve işlevsel bir web tarayıcısıdır. Amacım, kullanıcıların internette rahatça gezinmelerini
+sağlayan temiz ve sezgisel bir deneyim sunmaktır.
 
 ### ✨ Özellikler
 
@@ -17,7 +18,7 @@ PyQt5.QtWebEngineWidgets QWebEngineView, QWebEngineProfile, QWebEngineDownloadIt
 - Cromium Tabanlı Tarayıcı 🛠️
 
 ## 📸 Ekran Görüntüleri
-![Tarayıcı Ana Penceresi](screenshots/main_window.png)
+![Tarayıcı Ana Penceresi](https://github.com/EagleSoft461/Browser-Projcets/blob/main/%C4%B0mages/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-09-04%20191700.png)
 
 ## 🚀 Başlarken
 
